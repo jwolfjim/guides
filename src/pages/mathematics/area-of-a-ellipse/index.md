@@ -28,6 +28,6 @@ Area = 1/2 * 2 in * 1/2 * 7 in * pi = 11 in<sup>2</sup>
 
 #### More Information:
 
-For more information, please visit <a href= "https://www.mathsisfun.com/geometry/parallelogram.html">mathisfun.com</a>
+For more information, please visit <a href= "https://www.mathsisfun.com/geometry/ellipse.html">mathisfun.com</a>
 
 <!-- Please add any articles you think might be helpful to read before writing the article -->
