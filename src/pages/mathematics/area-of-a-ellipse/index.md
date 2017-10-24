@@ -14,13 +14,13 @@ Minor axis - the line drawn cutting the ellipse in half and running between both
 
 ##### Formula
 
-Area of ellipse =  <span class="texhtml"><span class="texhtml">pi</span> * <i>1/2*major axis</i> * <i>1/2*minor axis</i></span>
+Area of ellipse =  <span class="texhtml"><span class="texhtml">π</span> * <i>1/2*major axis</i> * <i>1/2*minor axis</i></span>
 
 ##### Example
 
 Given major axis = 2 in, minor axis = 7 in find area of the ellipse.<br><br>
 
-Area = 1/2 * 2 in * 1/2 * 7 in * pi = 11 in<sup>2</sup>
+Area = 1/2 * 2 in * 1/2 * 7 in * π = 11 in<sup>2</sup>
 
 <!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
 <br><br>
