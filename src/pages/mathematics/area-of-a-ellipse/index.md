@@ -10,7 +10,7 @@ Foci or focus points - these points are equidistant from the center of the ellip
 Major axis - the line drawn cutting the ellipse in half and running through both foci.
 Minor axis - the line drawn cutting the ellipse in half and running between both foci.<br> 
 
-<img src = "https://www.mathsisfun.com/geometry/images/area/parallel.gif">
+<img src = "https://jwolfgang.info/wp-content/uploads/2017/10/area-of-ellipse2.png">
 
 ##### Formula
 
@@ -18,9 +18,9 @@ Area of ellipse =  <span class="texhtml"><span class="texhtml">pi</span> * <i>
 
 ##### Example
 
-Given base = 3 cm, height = 5 cm find area of the parallelogram.<br><br>
+Given major axis = 2 in, minor axis = 7 in find area of the ellipse.<br><br>
 
-Area = 3 cm * 5 cm = 15 cm<sup>2</sup>
+Area = 1/2*2 in * 1/2*7 in * pi = 11 in<sup>2</sup>
 
 <!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
 <br><br>
